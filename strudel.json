@@ -1,5 +1,5 @@
 {
-  
+
   "_base": "https://raw.githubusercontent.com/psorii/main/",
   "Angles": "Angles Break.wav",
   "Beta": "Beta Break.wav",
@@ -7,5 +7,21 @@
   "Massive": "Massive Break.wav",
   "Think": "Think Break (7).wav",
   "Way": "Way Break.wav"
-
+  
+  "RL1":
+    ["RL1/cw_amen01_175.wav",
+    "RL1/cw_amen02_165.wav",
+    "RL1/cw_amen03_167.wav",
+    "RL1/cw_amen04_170.wav",
+    "RL1/cw_amen08_165.wav",
+    "RL1/cw_amen09_175.wav",
+    "RL1/cw_amen10_135 wav",
+    "RL1/cw_amen11_145.wav",
+    "RL1/cw_amen12_137.wav",
+    "RL1/cw_amen13_173.wav",
+    "RL1/cw_amen14_175.wav",
+    "RL1/cw_amen15_174.wav",
+    "RL1/cw_amen16_167.wav",
+    "RL1/cw_amen17_175.wav"]
+  
 }
